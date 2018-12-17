@@ -1,2 +1,2 @@
 # SQL-Sripts
-Stored Procs
+Some Stored Procedures used with various Python or Powershell scripts
